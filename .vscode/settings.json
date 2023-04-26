@@ -1,0 +1,14 @@
+{
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "powermode.explosions.backgroundMode": "image",
+    "powermode.enabled": true,
+    "powermode.shake.enabled": false,
+    "powermode.explosions.customExplosions":[
+        "https://media.giphy.com/media/I9ilvAEfXAYK8NrNYC/giphy.gif"
+    ],
+    "powermode.explosions.duration": 1000,
+    "powermode.explosions.size": 7.5,
+    "powermode.explosions.maxExplosions": 1,
+    "powermode.explosions.frequency": 6,
+    "powermode.explosions.offset": 0.5
+}
